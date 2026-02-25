@@ -10,7 +10,18 @@
 
 Ce projet implémente un **moteur morphologique complet pour la langue arabe**, basé sur le système racine–schème (Root–Pattern). Il combine un **arbre AVL** pour l'indexation des racines et une **table de hachage** pour la gestion des schèmes, offrant une efficacité algorithmique O(log n) et O(1) respectivement.
 
-L'interface utilisateur est une **application web moderne** servie directement par l'exécutable C++, accessible via navigateur sur `http://localhost:8080`.
+L'interface utilisateur est une **application web moderne** servie directement par l'exécutable C++, accessible via navigateur sur `http://localhost:8090`.
+
+<img width="1193" height="735" alt="image" src="https://github.com/user-attachments/assets/5b56c190-3fa2-4820-94b2-74af67089403" />
+
+<img width="1193" height="735" alt="image" src="https://github.com/user-attachments/assets/06cc546a-e22d-431f-95f3-1a0f8b768c0a" />
+
+<img width="1193" height="735" alt="image" src="https://github.com/user-attachments/assets/a3186671-4551-43b0-bf3c-df2b891b2612" />
+
+<img width="1193" height="735" alt="image" src="https://github.com/user-attachments/assets/ce389f59-f90f-4b69-b5b9-387fb66f2f96" />
+
+<img width="1193" height="735" alt="image" src="https://github.com/user-attachments/assets/c8eb9bdc-997e-4fd5-bd78-8dbdb0802319" />
+
 
 ---
 
